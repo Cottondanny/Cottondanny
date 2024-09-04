@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cottondanny
+- 👋 Hi, I’m Danny
 - 👀 I’m interested in art and computers
 - 🌱 I’m currently learning computer science and python
-- 📫 How to reach me on discord @cottondanny13_ 
+- 📫 Reach me on discord @cottondanny13_ 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bees can get drunk on pollen
 
